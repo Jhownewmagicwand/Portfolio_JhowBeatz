@@ -33,6 +33,14 @@ header {
 /* .trabalhos{
     text-align: center;
 } */
+
+.cards_trabalhos{
+
+    text-align: center;
+    align-items: center;
+
+}
+
 footer{
     text-align: center;
 }
