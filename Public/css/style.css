@@ -1,17 +1,17 @@
 :root {
-    --primary: rgba(240, 205, 108, 0.90);
-    --secondary: #95989A;
-    --text-color: #FFF;
-    --text-secondary: #000;
-    --text-tertiary: #5d5d5d;
+  --primary: rgba(240, 205, 108, 0.9);
+  --secondary: #95989a;
+  --text-color: #fff;
+  --text-secondary: #000;
+  --text-tertiary: #5d5d5d;
 }
 
 * {
-    font-family: "Montserrat";
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    text-decoration: none;
+  font-family: "Montserrat";
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
 }
 
 /* body{
@@ -34,20 +34,14 @@ header {
     text-align: center;
 } */
 
-.cards_trabalhos{
-
-    text-align: center;
-    align-items: center;
-
+.cards_trabalhos {
+  text-align: center;
+  align-items: center;
 }
 
-footer{
-    text-align: center;
+footer {
+  text-align: center;
 }
 
-@media(max-width: px){
-
+@media (max-width: px) {
 }
-
-
-
