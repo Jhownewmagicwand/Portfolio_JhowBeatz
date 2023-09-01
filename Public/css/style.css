@@ -43,6 +43,12 @@ footer {
   text-align: center;
 }
 
+a:hover {
+  background: rgba(0, 0, 0, 0.4);
+  border-radius: 4px;
+  transition: 0.5s;
+}
+
 /* Responsividade */
 
 @media (max-width: 414px) {
