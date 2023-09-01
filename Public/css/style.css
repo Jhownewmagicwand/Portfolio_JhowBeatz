@@ -43,5 +43,51 @@ footer {
   text-align: center;
 }
 
-@media (max-width: px) {
+/* Responsividade */
+
+@media (max-width: 414px) {
+  .cabecalho {
+    display: none;
+  }
+
+  .nome {
+    display: none;
+  }
+}
+
+@media (min-width: 750px) {
+  .cabecalho {
+    display: none;
+  }
+
+  .nome {
+    display: none;
+  }
+}
+
+@media (min-width: 540px) {
+  .cabecalho {
+    display: none;
+  }
+
+  .nome {
+    display: none;
+  }
+}
+
+@media (max-width: 2560px) {
+  @media (min-width: 1390px) {
+    .nome {
+      display: inline-block;
+    }
+
+    .cabecalho {
+      display: flex;
+      flex-wrap: nowrap;
+    }
+
+    .cabecalho_2 {
+      display: none;
+    }
+  }
 }
