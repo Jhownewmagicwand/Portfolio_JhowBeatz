@@ -1,11 +1,3 @@
-:root {
-  --primary: rgba(240, 205, 108, 0.9);
-  --secondary: #95989a;
-  --text-color: #fff;
-  --text-secondary: #000;
-  --text-tertiary: #5d5d5d;
-}
-
 * {
   font-family: "Montserrat";
   margin: 0;
@@ -14,29 +6,12 @@
   text-decoration: none;
 }
 
-/* body{
-    
-
+.nome {
+  width: 200px;
 }
 
-header {
-    
-
-
-}
-
-.nome {}
-
-.cabeçalho {
-    
-} */
-/* .trabalhos{
-    text-align: center;
-} */
-
-.cards_trabalhos {
-  text-align: center;
-  align-items: center;
+.nome_1 {
+  width: 200px;
 }
 
 footer {
